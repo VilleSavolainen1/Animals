@@ -1,1 +1,1 @@
-This small application shows a picture and plays a sound of different animals randomly when the button is clicked.
+This small application shows a picture and plays a sound of different animals when the button is clicked.
